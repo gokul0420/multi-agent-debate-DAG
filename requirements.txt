@@ -1,0 +1,9 @@
+langgraph
+openai
+python-dotenv
+graphviz
+
+torch                 
+transformers>=4.40
+accelerate
+sentencepiece         
