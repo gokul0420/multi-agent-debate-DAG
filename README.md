@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent Debate DAG using LangGraph Principles
+# 🧠 Multi-Agent Debate DAG using LangGraph 
 
 This project simulates a structured debate between two AI agents — a **Scientist** and a **Philosopher** — over a user-defined topic. The system is designed following LangGraph-inspired architecture with memory, turn control, and an automated Judge node that evaluates the debate using logical metrics. All arguments and judgments are generated **dynamically using a local Hugging Face model (Qwen‑1.5‑0.5B)**. No internet or API keys are required after setup.
 
